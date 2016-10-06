@@ -1,0 +1,10 @@
+@import "compass";
+@import "compass/reset";
+
+// Here we import our partials
+@import "_partials/variables";
+@import "_partials/typography";
+@import "_partials/main";
+@import "_partials/header";
+@import "_partials/dashboard";
+@import "_partials/footer";
